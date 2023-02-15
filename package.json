@@ -94,13 +94,6 @@
         "path": "./snippets/php.json"
       },
       {
-        "language": [
-              "powershell",
-              "ps1"
-            ],        
-        "path": "./snippets/powershell.json"
-      },
-      {
         "language": "quarto",
         "path": "./snippets/quarto.json"
       },
@@ -459,7 +452,12 @@
       {
         "language": "edge",
         "path": "./snippets/frameworks/edge.json"
-      }
+      },
+      {
+        "language": "ps1",
+        "path": "./snippets/powershell.json"
+      },
+      
     ]
   }
 }
