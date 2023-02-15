@@ -94,7 +94,10 @@
         "path": "./snippets/php.json"
       },
       {
-        "language": "ps1",
+        "language": [
+              "powershell",
+              "ps1"
+            ],        
         "path": "./snippets/powershell.json"
       },
       {
